@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    /* Basic carousel styles */
+    .carousel-container {
+      width: 500px;
+      margin: 0 auto;
+      overflow: hidden;
+    }
+    .carousel {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: flex;
+      transition: transform 0.5s ease-in-out;
+    }
+    .carousel li {
+      width: 500px;
+      flex-shrink: 0;
+    }
+    .title-container {
+      color: #a83232;
+      text-align: center;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="title-container">
+    <h2>Free Designer Posters</h2>
+    <h3>Use in your social media advertising</h3>
+  </div>
+  <div class="carousel-container">
+    <ul class="carousel">
+      <li><img src="https://scotbase.com/images/poster_mockup%20162.png?crc=238586033" alt="Image 1"></li>
+      <li><img src="https://scotbase.com/images/poster_mockup%2072.png?crc=4289823788" alt="Image 2"></li>
+      <li><img src="https://scotbase.com/images/poster_mockup%20172.png?crc=4144060457"  alt="Image 3"></li>
+      <!-- Add more slides as needed -->
+    </ul>
+  </div>
+
+  <script>
+    // JavaScript to make the carousel auto-slide
+    const carousel = document.querySelector('.carousel');
+    let currentIndex = 0;
+
+    function nextSlide() {
+      currentIndex = (currentIndex + 1) % carousel.children.length;
+      updateCarousel();
+    }
+
+    function updateCarousel() {
+      const translateX = -currentIndex * 500;
+      carousel.style.transform = `translateX(${translateX}px)`;
+    }
+
+    setInterval(nextSlide, 3000); // Change slide every 3 seconds
+  </script>
+</body>
+</html>
