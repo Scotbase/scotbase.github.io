@@ -3,9 +3,9 @@
 
 @charset "utf-8";
 
-$theme-colors: (
-  "primary": {{site.color-scheme}}
-);
+// $theme-colors: (
+//   "primary": {{ site.color-scheme }}
+// );
 
 // Width of the content area
 $content-width: 800px;
@@ -25,7 +25,7 @@ $on-laptop: 800px;
   }
 }
 
-//@import "bootstrap/bootstrap/bootstrap.css";
+@import "bootstrap/bootstrap/bootstrap.css";
 @import "bootstrap/functions";
 @import "bootstrap/variables";
 @import "bootstrap/mixins";
