@@ -76,7 +76,7 @@ defaults:
       path: ""
     values:
       layout: "default"
-color-scheme: "#a83232" # the scheme can be any HEX code like "#00aa55"
+color-scheme: "#b20013" # the scheme can be any HEX code like "#00aa55"
 
 sass:
   sass_dir: /assets/css/_sass
