@@ -1,1 +1,13 @@
-Drag Queens
+---
+layout: acts
+---
+<img class="header-image" src="https://scotbase.com/images/drag%20queens%20slide.jpg?crc=33339611" />
+<div class="row">
+  {% for item in site.data.drag-queens %}
+    <div class="col-md-4 mb-5">
+      <div class="card border-0 shadow h-100">
+        <img class="card-img-top" src="{{ item.image_src }}" alt="" />
+      </div>
+    </div>
+  {% endfor %}
+</div>
