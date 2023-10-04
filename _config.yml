@@ -55,18 +55,11 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 collections:
-  artists:
-    output: true
-  bands:
-    output: true 
   acts:
     output: true
+  categories:
+    output: true
 defaults:
-  - scope:
-      path: ""
-      type: "authors"
-    values:
-      layout: "author"
   - scope:
       path: ""
       type: "categories"  
