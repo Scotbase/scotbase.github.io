@@ -3,52 +3,17 @@ layout: acts
 ---
 <img class="header-image" src="https://scotbase.com/images/tribute%20acts%20slide2.jpg?crc=4214450056" />
 <div class="row">
-  <div class="col-md-4 mb-5">
-    <div class="card border-0 shadow h-100">
-      <img class="card-img-top" src="https://scotbase.com/images/band%20tribute%20350%20x350.jpg?crc=180408347" alt="" />
-      <div class="card-body">
-        <h4 class="card-title">Band Tributes</h4>
-        <p class="card-text">Book a fabulous tribute band or show and sell out tickets at your hotel, club, corporate or one-off event.</p>
-      </div>
-      <div class="card-footer">
-        <a href="#" class="btn btn-primary">Browse</a>
-      </div>
-    </div>
-  </div>
-  <div class="col-md-4 mb-5">
-    <div class="card border-0 shadow h-100">
-      <img class="card-img-top" src="https://scotbase.com/images/multi%20tributes.jpg?crc=3910255010" alt="" />
-      <div class="card-body">
-        <h4 class="card-title">Multi Tributes</h4>
-        <p class="card-text">Multi tribute shows bring the house down. your customers will flock to buy tickets to hear & dance to their fav songs.</p>
-      </div>
-      <div class="card-footer">
-        <a href="#" class="btn btn-primary">Browse</a>
+  {% for item in site.data.tribute-acts %}
+    <div class="col-md-4 mb-5">
+      <div class="card border-0 shadow h-100">
+        <img class="card-img-top" src="{{ item.image_src }}" alt="" />
+        <div class="card-body">
+          <p class="card-text">{{ item.description }}</p>
+        </div>
+        <div class="card-footer">
+          <a href="#" class="btn btn-primary">Browse</a>
+        </div>
       </div>
     </div>
-  </div>
-  <div class="col-md-4 mb-5">
-    <div class="card border-0 shadow h-100">
-      <img class="card-img-top" src="https://scotbase.com/images/female%20tributes.jpg?crc=3794355829" alt="" />
-      <div class="card-body">
-        <h4 class="card-title">Female Tributes</h4>
-        <p class="card-text">Our super amazing female tribute entertainers will have your venue buzzing and your dance-floor jumping.</p>
-      </div>
-      <div class="card-footer">
-        <a href="#" class="btn btn-primary">Browse</a>
-      </div>
-    </div>
-  </div>
-  <div class="col-md-4 mb-5">
-    <div class="card border-0 shadow h-100">
-      <img class="card-img-top" src="https://scotbase.com/images/male%20tributes.jpg?crc=4041740144" alt="" />
-      <div class="card-body">
-        <h4 class="card-title">Male Tributes</h4>
-        <p class="card-text">Hiring an awesome male tribute act from Scotbase ensures a successful event and greater profit for you. choose from pop, rock, punk and swing.</p>
-      </div>
-      <div class="card-footer">
-        <a href="#" class="btn btn-primary">Browse</a>
-      </div>
-    </div>
-  </div>
+  {% endfor %}
 </div>
