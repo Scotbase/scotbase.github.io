@@ -1,5 +1,4 @@
 ---
-layout: categories
 ---
 
 <!DOCTYPE html>
@@ -21,14 +20,3 @@ layout: categories
 </body>
 
 </html>
----
-<img class="header-image" src="https://scotbase.com/images/scottish%20cabaret%20shows2.jpg?crc=43200364" />
-<div class="row">
-  {% for item in site.data.scottish-shows %}
-    <div class="col-md-4 mb-5">
-      <div class="card border-0 shadow h-100">
-        <img class="card-img-top" src="{{ item.image_src }}" alt="" />
-      </div>
-    </div>
-  {% endfor %}
-</div>

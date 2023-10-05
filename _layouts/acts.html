@@ -9,6 +9,23 @@
   {% include navigation.html %}
   <!-- Page Content -->
   <div class="container mb-5">
+    <img class="header-image" src="{{ page.image }}"/>
+    {% if page.video_src %}
+      <iframe 
+        width="100%" 
+        height="500" 
+        src="{{ page.video_src }}" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        allowfullscreen>
+      </iframe>
+    {% endif %}
+<div class="category-description">
+  <p>
+    {{ page.description }}
+  </p>
+</div>
     {{ content }}
   </div>
   <!-- /.container -->

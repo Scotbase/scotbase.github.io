@@ -1,7 +1,16 @@
 ---
-layout: acts
+layout: categories
 ---
 <img class="header-image" src="https://scotbase.com/images/tribute%20acts%20slide2.jpg?crc=4214450056" />
+<div class="category-description mb-5">
+  <p>
+    book the uk's BEST TRIBUTE ACTS to get the ideal artiste/s for your event.
+    THESE ACTS ARE SO LIKE THE REAL THING, AND AT A FRACTION OF THE COST,
+  </p>
+  <p>
+    GREAT VALUE FOR MONEY.
+  </p>
+</div>
 <div class="row">
   {% for item in site.data.tribute-acts %}
     <div class="col-md-4 mb-5">
@@ -11,7 +20,7 @@ layout: acts
           <p class="card-text">{{ item.description }}</p>
         </div>
         <div class="card-footer">
-          <a href="/acts/{{ item.title | slugify }}" class="btn btn-primary">Browse</a>
+          <a href="/acts/band-tributes" class="btn btn-primary">Browse</a>
         </div>
       </div>
     </div>

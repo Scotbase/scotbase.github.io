@@ -1,0 +1,9 @@
+---
+layout: acts
+image: https://scotbase.com/images/multi%20tribute%20show%20vegas%20legends.jpg?crc=4176937778
+video_src: https://www.youtube.com/embed/kwOaqwIyKas?si=FyAYW6OFKMdkuAjb
+description: THE SENSATIONAL VEGAS LEGENDS TRIBUTE SHOW  where PAST MEETS PRESENT AS TWO OF LAS VEGAS MOST ICONIC PERFORMERS, SEPARATED BY OVER FORTY YEARS COME TOGETHER FOR A VERY SPECIAL NIGHT OF ENTERTAINMENT. <hr>
+             BASED ON CELINE DIONS SMASH HIT VEGAS SHOW CURRENTLY WOWING AUDIENCE  AT CAESARS PALACE AND ELVIS'S ICONIC INTERNATIONAL HOTEL RESIDENCY THAT ROCKED THE STRIP BACK IN '69, IT'S A NIGHT OF HIGH CLASS, HIGH QUALITY SINGING WITH STUNNING COSTUME, GORGEOUS DUETS AND HILARIOUS INTERPLAY WITH TWO OF THE WORLDS BEST LOVED STARS, CELINE DION & ELVIS PRESLEY. <hr>
+             if you're looking for success with your event look no further this show is a sure fire hit. to avoid disappointment get your date secured. <hr>
+             call now for INSTANT QUOTES & AVAILABILITY
+---
