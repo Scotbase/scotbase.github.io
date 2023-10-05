@@ -30,6 +30,11 @@
   // #d4001e #b20013
 }
 
+.navbar,
+.footer {
+  background-image: url('https://scotbase.com/images/second%20bg.jpg?crc=231213139');
+}
+
 .category-description {
   background-image: url('https://scotbase.com/images/second%20bg.jpg?crc=231213139');
   background-size: cover;
@@ -37,6 +42,6 @@
   min-height: 400px;
   margin-top: 60px;
   color: white;
-  font-size: larger;
+  font-size: 20px;
   padding: 20px;
 }
