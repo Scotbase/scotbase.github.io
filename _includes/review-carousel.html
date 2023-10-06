@@ -1,0 +1,49 @@
+<div class="reviews-carousel mt-4">
+  <h3 class="text-center">Customer Reviews</h3>
+  <div class="reviews-carousel-container">
+    <div class="review-item text-center">
+      I would recommend Scotbase to any hotel owner. Providing a reliable and friendly service they always book the right acts for our event nights. The posters and tickets are brilliant.<hr>
+      Elaine - Tinto Hotel Biggar
+    </div>
+    <div class="review-item text-center">
+      Scotbase are a company who listen and give good advice. Their Tribute shows are great value for money and always bring the house down.<hr>
+      Liz Bailleston- Barranchie Inn
+    </div>
+    <!-- Add more review items as needed -->
+  </div>
+  <button class="carousel-btn prev-btn">&#8249;</button>
+  <button class="carousel-btn next-btn">&#8250;</button>
+</div>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+  const container = document.querySelector(".reviews-carousel-container");
+  const prevBtn = document.querySelector(".prev-btn");
+  const nextBtn = document.querySelector(".next-btn");
+
+  let currentIndex = 0;
+
+  // Function to update the position of the review items
+  function updateCarousel() {
+    const itemWidth = document.querySelector(".review-item").offsetWidth;
+    const newPosition = -currentIndex * itemWidth;
+    container.style.transform = `translateX(${newPosition}px)`;
+  }
+
+  // Event handler for the "Next" button
+  nextBtn.addEventListener("click", function () {
+    if (currentIndex < document.querySelectorAll(".review-item").length - 1) {
+      currentIndex++;
+      updateCarousel();
+    }
+  });
+
+  // Event handler for the "Previous" button
+  prevBtn.addEventListener("click", function () {
+    if (currentIndex > 0) {
+      currentIndex--;
+      updateCarousel();
+    }
+  });
+});
+
+</script>

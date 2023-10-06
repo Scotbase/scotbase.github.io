@@ -45,3 +45,42 @@
   font-size: 20px;
   padding: 20px;
 }
+
+.reviews-carousel {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  background-image: url('https://scotbase.com/images/second%20bg.jpg?crc=231213139');
+  color: white;
+}
+
+.reviews-carousel-container {
+  display: flex; /* Display review items in a row */
+  transition: transform 0.3s ease; /* Smooth transition between reviews */
+}
+
+.review-item {
+  flex: 0 0 100%; /* Make each review item take up the full width */
+  padding: 60px;
+}
+
+.carousel-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 40px;
+  height: 40px;
+  background-color: #333;
+  color: white;
+  border: none;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.prev-btn {
+  left: 10px;
+}
+
+.next-btn {
+  right: 10px;
+}
