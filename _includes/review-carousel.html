@@ -15,35 +15,43 @@
   <button class="carousel-btn next-btn">&#8250;</button>
 </div>
 <script>
-  document.addEventListener("DOMContentLoaded", function () {
-  const container = document.querySelector(".reviews-carousel-container");
-  const prevBtn = document.querySelector(".prev-btn");
-  const nextBtn = document.querySelector(".next-btn");
+  document.addEventListener('DOMContentLoaded', function () {
+  const carouselContainer = document.querySelector('.reviews-carousel-container');
+  const prevBtn = document.querySelector('.prev-btn');
+  const nextBtn = document.querySelector('.next-btn');
+  const reviewItems = document.querySelectorAll('.review-item');
 
   let currentIndex = 0;
 
-  // Function to update the position of the review items
+  // Function to update the carousel
   function updateCarousel() {
-    const itemWidth = document.querySelector(".review-item").offsetWidth;
-    const newPosition = -currentIndex * itemWidth;
-    container.style.transform = `translateX(${newPosition}px)`;
+    const itemWidth = reviewItems[currentIndex].offsetWidth;
+    const translateX = -itemWidth * currentIndex;
+    carouselContainer.style.transform = `translateX(${translateX}px)`;
   }
 
-  // Event handler for the "Next" button
-  nextBtn.addEventListener("click", function () {
-    if (currentIndex < document.querySelectorAll(".review-item").length - 1) {
-      currentIndex++;
-      updateCarousel();
+  // Previous button click event
+  prevBtn.addEventListener('click', function () {
+    currentIndex--;
+    if (currentIndex < 0) {
+      // If at the first item, loop to the last item
+      currentIndex = reviewItems.length - 1;
     }
+    updateCarousel();
   });
 
-  // Event handler for the "Previous" button
-  prevBtn.addEventListener("click", function () {
-    if (currentIndex > 0) {
-      currentIndex--;
-      updateCarousel();
+  // Next button click event
+  nextBtn.addEventListener('click', function () {
+    currentIndex++;
+    if (currentIndex >= reviewItems.length) {
+      // If at the last item, loop to the first item
+      currentIndex = 0;
     }
+    updateCarousel();
   });
+
+  // Initial carousel setup
+  updateCarousel();
 });
 
 </script>
