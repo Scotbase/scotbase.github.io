@@ -5,9 +5,7 @@
         <img class="card-img-top" src="{{ item.image_src }}" alt="" />
         <div class="card-body">
           <h4 class="card-title">{{ item.title }}</h4>
-          {% if item.description %}
-            <p class="card-text">{{ item.description }}</p>
-          {% endif %}
+          <p class="card-text">{{ item.description }}</p>
         </div>
         <div class="card-footer">
           <a href="/categories/{{ item.title | slugify }}" class="btn btn-primary">Browse</a>
