@@ -1,5 +1,22 @@
 ---
 layout: acts
+image: https://scotbase.com/images/multi%20tribute%20acts%20slide.jpg?crc=3850551580
+video_src: https://player.vimeo.com/video/289281046?h=22a561529f
+description: multi tribute shows are great value for money. you get up to ten different acts depending on the show you choose. shows are tailored for your event and come come with pro lighting & sound systems and backdrops. <hr>
+            call now for INSTANT QUOTES & AVAILABILITY
 ---
 
-<img class="header-image" src="" />
+<div class="row mt-4">
+  {% for item in site.data.multi-tribute %}
+    <div class="col-md-4 mb-5">
+      <div class="card border-0 shadow h-100">
+        <a href="/acts/{{ item.title | slugify }}">
+          <img class="card-img-top" src="{{ item.image_src }}" alt="" />
+        </a>
+        <div class="card-body">
+          <p class="card-text">{{ item.description }}</p>
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+</div>

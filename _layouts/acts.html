@@ -21,11 +21,13 @@
         allowfullscreen>
       </iframe>
     {% endif %}
-<div class="category-description">
-  <p>
-    {{ page.description }}
-  </p>
-</div>
+    {% if page.description %}
+      <div class="category-description">
+        <p>
+          {{ page.description }}
+        </p>
+      </div>
+    {% endif %}
     {{ content }}
   </div>
   <!-- /.container -->

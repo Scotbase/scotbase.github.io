@@ -84,3 +84,18 @@
 .next-btn {
   right: 10px;
 }
+
+.description {
+  display: -webkit-box;
+  -webkit-line-clamp: 6;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+// .read-more {
+//   display: none;
+// }
+
+.description:hover .read-more {
+  display: block;
+}

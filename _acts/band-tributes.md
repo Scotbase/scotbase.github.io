@@ -1,7 +1,7 @@
 ---
 layout: acts
 image: https://scotbase.com/images/book%20a%20tribute%20band.jpg?crc=4267022110
-video_src: https://www.youtube.com/embed/kwOaqwIyKas?si=FyAYW6OFKMdkuAjb
+# video_src: https://www.youtube.com/embed/kwOaqwIyKas?si=FyAYW6OFKMdkuAjb
 description: HIRE the uk's best tribute bands and get the ideal act for your event.
             five star ACTS to suit all events and venues, large or small. <hr>
             call now for INSTANT QUOTES & AVAILABILITY
@@ -14,6 +14,9 @@ description: HIRE the uk's best tribute bands and get the ideal act for your eve
         <a href="/acts/{{ item.title | slugify }}">
           <img class="card-img-top" src="{{ item.image_src }}" alt="" />
         </a>
+        <div class="card-body">
+          <p class="card-text">{{ item.description }}</p>
+        </div>
       </div>
     </div>
   {% endfor %}
