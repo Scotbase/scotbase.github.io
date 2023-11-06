@@ -15,13 +15,15 @@ layout: categories
   {% for item in site.data.tribute-acts %}
     <div class="col-md-4 mb-5">
       <div class="card border-0 shadow h-100">
-        <img class="card-img-top" src="{{ item.image_src }}" alt="" />
+        <a href="/acts/{{ item.title | slugify }}">
+          <img class="card-img-top" src="{{ item.image_src }}" alt="" />
+        </a>
         <div class="card-body">
           <p class="card-text">{{ item.description }}</p>
         </div>
-        <div class="card-footer">
+        <!-- <div class="card-footer">
           <a href="/acts/{{ item.title | slugify }}" class="btn btn-primary">Browse</a>
-        </div>
+        </div> -->
       </div>
     </div>
   {% endfor %}
