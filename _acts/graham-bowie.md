@@ -1,0 +1,6 @@
+---
+layout: acts
+image: https://scotbase.com/images/david%20bowie%20tribute%20act%20graham%20bowie-u634901-fr.jpg?crc=372320182
+description: David Bowie tribute act Liverpudlian Graham Bowie is an amazing one man show. Formerly a church choirboy, Graham had an introduction into music at an early age, playing piano, guitar and trumpet. by the age of ten, and regularly sang along with the many Bowie hits of the time.He became subconsciously aware as time passed by of the uncanny resemblance to the dulcet tones of one of his “Heroes”, but never acted upon it. Throughout his on/off musical career, Graham has fronted both Rock and Indie bands and has only returned to the music scene in the last few years performing many Bowie hits in his solo set.After countless comments about his vocal similarity over the years, aswell as his genuine love of David Bowie material it was agreed that this year would see the birth of his tribute act, Graham Bowie. Grahams aim is to perform the best of the Greatest Hits of David Bowie and give the audience an experience to remember. Long live the The Thin White Duke! <hr>
+            call now for advice, INSTANT QUOTES & AVAILABILITY
+---
