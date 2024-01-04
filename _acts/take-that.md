@@ -1,6 +1,8 @@
 ---
 layout: acts
 image: https://scotbase.com/images/take%20that%20tribute%20bands%20and%20shows.jpg?crc=4233811106
+description: our take that trbute bands are as close as you'll get to the successful band  who've have had 56 number one singles and 39 number one albums, and received eight Brit Awards—winning awards for Best British Group and Best British Live Act. true pros these bands are five star and guaranteed to sell out tickets at your venue. <hr>
+          call today for advice, QUOTES & AVAILABILITY
 ---
 
 <div class="row mt-4 mb-4">
@@ -10,9 +12,9 @@ image: https://scotbase.com/images/take%20that%20tribute%20bands%20and%20shows.j
         <a href="/acts/{{ item.title | slugify }}">
           <img class="card-img-top" src="{{ item.image_src }}" alt="" />
         </a>
-         <div class="card-body">
+         <!-- <div class="card-body">
           <p class="card-text">{{ item.description }}</p>
-        </div>
+        </div> -->
       </div>
     </div>
   {% endfor %}

@@ -1,6 +1,8 @@
 ---
 layout: acts
 image: https://scotbase.com/images/amy%20winehouse%20tribute%20vocalists.jpg?crc=4078653108
+description: our Amy winehouse tribute vocalists have powerful vocals and stunning costumes ensuring these acts are a big  hit wherever they perform. Amy winehouse had one of the most distinctive voices and style in the music industry. her sound is brought to life by the fabulous tributes artists here at scotbase.we take pride in being able to offer these as acts as completely professional shows including fully programmed lighting, professional backdrops,  and state of the art equipment, making these the perfect amy winehouse Tribute Acts to book for your venue. <hr>
+            call today for advice, QUOTES & AVAILABILITY
 ---
 
 <div class="row mt-4 mb-4">
@@ -10,9 +12,9 @@ image: https://scotbase.com/images/amy%20winehouse%20tribute%20vocalists.jpg?crc
         <a href="/acts/{{ item.title | slugify }}">
           <img class="card-img-top" src="{{ item.image_src }}" alt="" />
         </a>
-         <div class="card-body">
+         <!-- <div class="card-body">
           <p class="card-text">{{ item.description }}</p>
-        </div>
+        </div> -->
       </div>
     </div>
   {% endfor %}
