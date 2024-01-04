@@ -10,9 +10,9 @@ image: https://scotbase.com/images/little%20mix%20tribute%20bands.jpg?crc=881392
         <a href="/acts/{{ item.title | slugify }}">
           <img class="card-img-top" src="{{ item.image_src }}" alt="" />
         </a>
-         <div class="card-body">
+         <!-- <div class="card-body">
           <p class="card-text">{{ item.description }}</p>
-        </div>
+        </div> -->
       </div>
     </div>
   {% endfor %}

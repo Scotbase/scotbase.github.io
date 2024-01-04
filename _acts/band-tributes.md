@@ -14,9 +14,9 @@ description: HIRE the uk's best tribute bands and get the ideal act for your eve
         <a href="/acts/{{ item.title | slugify }}">
           <img class="card-img-top" src="{{ item.image_src }}" alt="" />
         </a>
-        <div class="card-body">
+        <!-- <div class="card-body">
           <p class="card-text">{{ item.description }}</p>
-        </div>
+        </div> -->
       </div>
     </div>
   {% endfor %}

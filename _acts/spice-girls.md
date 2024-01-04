@@ -10,9 +10,9 @@ image: https://scotbase.com/images/spice%20girls%20tribute%20bands%20and%20shows
         <a href="/acts/{{ item.title | slugify }}">
           <img class="card-img-top" src="{{ item.image_src }}" alt="" />
         </a>
-         <div class="card-body">
+         <!-- <div class="card-body">
           <p class="card-text">{{ item.description }}</p>
-        </div>
+        </div> -->
       </div>
     </div>
   {% endfor %}

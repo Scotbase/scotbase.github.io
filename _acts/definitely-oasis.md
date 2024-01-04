@@ -1,0 +1,7 @@
+---
+layout: acts
+image: https://scotbase.com/images/noasis%20tribute%20band.jpg?crc=4015529526
+video_src: https://player.vimeo.com/video/310758536?h=860978db6b
+description: Definitely Oasis are regarded by many Oasis fans and promoters alike as the best Oasis tribute band there is! The band regularly sell out top class venues across the UK and were recently the first ever tribute band to sell out Glasgow's iconic Garage Venue quite an achievement when you consider only 3 years ago the band played there first gig in Glasgow to less than 50 people to now playing closer to 1000 people shows how good this band is and how far they have come.Everything the band does is all about what the fans want to see and hear a lot of hard work goes on in the background making sure that the look and sound are bang on so much so that the band were invited to play to play the iconic barrowlands venue on November 26th 2016 a venue loved by both Liam & Noel and where Oasis played arguably some of there finest ever shows and another first for an Oasis tribute band proves why they are the best Oasis tribute in the Business.With the real Oasis on an extended break at the moment this is definitely the next best thing Definitely Oasis do an amazing job of keeping the music alive and and set the bar high by re-creating the Oasis look, sound and feel of an Oasis gig that fans come to expect and are also the only Oasis tribute that have both a Liam and Noel sound alikes. <hr>
+            call now for INSTANT QUOTES & AVAILABILITY
+---
