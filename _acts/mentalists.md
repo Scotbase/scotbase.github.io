@@ -1,0 +1,6 @@
+---
+layout: acts
+image: https://scotbase.com/images/book%20the%20mentalist-u658802-fr.jpg?crc=3776076916
+description: mentalist terry mcewan offers a highly entertaining and interactive performance that displays the extraordinary abilities of the human mind. His warm energy and fun sense of humour enables him to form a lasting connection with his audience.He knows information about his audience members without ever having met them before and can predict completely random acts that will happen throughout his show, hours in advance!A versatile performer able to offer both a stage show and close-up act, he is the perfect choice for all kinds of events; whether you’re looking to draw footfall to your stand at an exhibition or trade show with some impressive small-scale illusions, or wow audiences after dinner with an all singing, all dancing grand illusion show. Whatever your event our Mentalism Show is guaranteed to meet and exceed your event entertainment needs. book well in advance of your event to avoid disappointment. <hr>
+            call today for INSTANT QUOTES & AVAILABILITY
+---
