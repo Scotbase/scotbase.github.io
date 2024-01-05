@@ -1,0 +1,6 @@
+---
+layout: acts
+image: https://scotbase.com/images/female%20vocalist%20juliana%20hoy-u651429-fr.jpg?crc=286473751
+description: talented vocalist Juliana hoy started in the entertainment industry from the age of eleven, she trained at the Dorothy Paul school of drama and at the RSAMD for her Vocals.Juliana joined the Apollo Players in Glasgow, Scotland and played many leading parts in their musicals, she toured all over the UK and abroad with another World renowned Abba Tribute band for two years and had the pleasure of performing in front of HRH Queen Elizabeth at the Millennium Dome in London.<hr>She has also played along with many Superstars such as Tina Turner, Simply Red and Annie Lennox to name but a few. Juliana also appeared on both the BBC and ITV primetime television to her credit. She has been performing with Abbamania for the past four years and has had the pleasure of working with many top musicians in packed theatres all over the uk.<hr>Juliana is a talented, vibrant vocalist and will always entertain her audience with her vocals, wit and charm. With songs from the past to the more up to date chart hits juliana will soon have you dancing the night away. <hr>
+            INSTANT QUOTES & AVAILABILITY
+---
