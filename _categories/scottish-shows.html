@@ -1,27 +1,6 @@
 ---
 layout: categories
 ---
-
-<!DOCTYPE html>
-<html lang="en">
-{% include head.html %}
-
-<body>
-  {% include navigation.html %}
-  <!-- Page Content -->
-  <div class="container mb-5">
-    {{ content }}
-  </div>
-  <!-- /.container -->
-  {% include footer.html %}
-
-  <!-- Bootstrap core JavaScript -->
-  <script src="{{ site.baseurl }}/assets/vendor/jquery/jquery.min.js"></script>
-  <script src="{{ site.baseurl }}/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-</body>
-
-</html>
----
 <img class="header-image" src="https://scotbase.com/images/scottish%20cabaret%20shows2.jpg?crc=43200364" />
 <div class="row">
   {% for item in site.data.scottish-shows %}
