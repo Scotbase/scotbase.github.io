@@ -1,7 +1,18 @@
 ---
 layout: acts
-image: https://scotbase.com/images/totally%20gaga%20tribute%20show-u628686-fr.jpg?crc=3909071129
-video_src: https://youtu.be/aSWhusz6pT4?feature=shared
-description: lady gaga tribute show totally Gaga is a stunning live re-enactment of all Lady  Gaga’s finest moments. The show is not just a tribute, she impersonate’s, rather than imitates her character,her look,her moves and the voice are all Totally Gaga.All of Lady Gaga’s greatest live performances are 100% live vocals throughout the Totally Gaga show, including stunning acoustic renditions of Poker Face, Speechless and Edge of Glory. this is a fast moving, dynamic show recreating hit after  hiT.  book early to avoid disappointment. <hr>
+image: https://scotbase.com/images/lionel%20richie%20tribute%20acts-u639331-fr.jpg?crc=4001107981
+description: our lionel richie tribute shows provide classic eighties smooth. these great shows sell out venues time after time. By growing up in Alabama I had a melting pot of the whole pie - R&B, gospel, and country" said lead singer of the commodores, lionel richie. and it certainly paid off for the multiple award winning star who had huge hits with Easy, Three ties A lady and still.His self titled debut album as a solo artist spawned the number one single truly, and the album hit number 3 on the charts and sold 4 million copies. Lionel Richie had officially arrived.our lionel richie tribute shows encompass all of that and more. book early to avoid disappointment. <hr>
             call now for advice, INSTANT QUOTES & AVAILABILITY
 ---
+
+<div class="row mt-4 mb-4">
+  {% for item in site.data.lionel-richie %}
+    <div class="col-md-4 mb-5">
+      <div class="card border-0 shadow h-100">
+        <a href="/acts/{{ item.title | slugify }}">
+          <img class="card-img-top" src="{{ item.image_src }}" alt="" />
+        </a>
+      </div>
+    </div>
+  {% endfor %}
+</div>
