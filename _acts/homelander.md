@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: https://scotbase.com/images/scottish%20cabaret%20show%20homelanders-u657684-fr.jpg?crc=406535690
+image: https://scotbase.com/images/scottish%20cabaret%20show%20homelanders-u657684-fr.jpg
 description: popular traditional Scottish cabaret  tartan act The Homelanders COMPRISES OF PAUL PHILIPS AND Expert accordionist John Morgan. much in demand in popular Scottish holiday venues, CLUBS AND HOTELS.The huge gap in the traditional Scottish music Scene left by The Alexander Brothers has never been more adequately filled than by THE HOMELANDERS. John is one of the world’s leading accordionists and has been voted one of the six best players in the UK by the prestigious Fiddle & Accordion Clubs. northern Ireland born Paul, carries most of the vocals as well as being an established comedian this creates the mix which gives the show its magic and unique appeal.THIS SHOW IS VIBRANT AND UPLIFTING, iF YOU WANT TO GET THE PARTY GOING AT BURNS SUPPERS, ST ANDREWS EVENTS OR HOGMANAY DINNERS, THIS IS THE SHOW FOR YOU. BOOKINGS ARE NOW BEING TAKEN FOR 2020/21. <hr>
           INSTANT QUOTES & AVAILABILITY, lines open until 10pm
 ---

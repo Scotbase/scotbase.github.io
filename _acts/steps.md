@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: https://scotbase.com/images/steps%20tribute%20bands.jpg?crc=458245164
+image: https://scotbase.com/images/steps%20tribute%20bands.jpg
 description: our British dance-pop group steps tribute bands are second to none. fabulous shows with amazing dance routines and harmonised vocals they know how to please audiences of all ages, and are suitable to play in venues both large and small. they come  with professional sound systems, light shows and backdrops.
 ---
 

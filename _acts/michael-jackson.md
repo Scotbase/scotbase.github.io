@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: https://scotbase.com/images/michael%20jackson%20tribute%20act-u640369-fr.jpg?crc=273092139
+image: https://scotbase.com/images/michael%20jackson%20tribute%20act-u640369-fr.jpg
 video_src: https://youtu.be/BYXqLONHnZw?feature=shared
 description: Got to Be Michael Jackson is the UK’s top live Michael Jackson tribute concert. Starring Anthony Edwards, it celebrates the career and impact of one of the world’s most famous entertainers.Got to Be Michael Jackson features authentic costumes, props, and atmosphere to create a concert that is identical to Jackson’s famous spectacles. Hits such as I Want You Back, ABC, Thriller, Billie Jean, Smooth Criminal, and Black and White are performed by talented performers alongside a dedicated band, to create the ultimate Michael Jackson experience.Anthony Edwards has dedicated his 25-year career to perfecting the art of being Michael. He worked directly with Michael Jackson and has moonwalked around the world at over 200 shows per year. He is also the only Michael Jackson tribute performer to have auditioned, been selected, and performed exclusively through UK live television.Whether you’ve retired your white glove, or still moonwalk when no one is looking, tune in for the Michael Jackson tribute concert of a lifetime with Got to Be Michael Jackson. <hr>
             call now for advice, INSTANT QUOTES & AVAILABILITY

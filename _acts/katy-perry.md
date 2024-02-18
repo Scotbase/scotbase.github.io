@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: https://scotbase.com/images/katy%20perry%20tribute%20act-u627833-fr.jpg?crc=313528943
+image: https://scotbase.com/images/katy%20perry%20tribute%20act-u627833-fr.jpg
 video_src: https://player.vimeo.com/video/311697913?h=b458734653
 description: our fabulous Katy Perry tribute Katy ellis, not only looks like the award winning star, but she has the same mannerisms, stage energy  and attitude. After all the vocal training and experience, she has the complete range and sound of Katy Perry. The show is 100% live! Katy herself is a massive katy perry fan and she knows every song and can sing any of katy Perry’s on request.The costumes were specially made in California for Katy and are replicas of Katy’s actual costumes. Each costume change represents the different stages in Katy’s career from Candy land to Dark horse.Katy show ‘Katy Perry-California Gurls were unforgettable’ can come as 2 x45 mins with four quick costume changes or as 1 hour with two changes. the Fantastic Candy girl dancers are available upon request.Katy can cater for any venue and any event from festivals, weddings, cruise ships, fly outs, pubs, clubs and holiday parks. Katy has all her own sound and lighting equipment and even fantastic stage props. Katy sings all of Katy Perry’s hits from the old to the very latest.This fun, professional crazy energetic show will feel just like you are at Katy Perry’s shows and you will have the time of your life with this fun filled show. <hr>
             call today for advice, QUOTES & AVAILABILITY

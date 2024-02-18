@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: https://scotbase.com/images/jess%20glynne%20tribute%20acts-u627248-fr.jpg?crc=348718914
+image: https://scotbase.com/images/jess%20glynne%20tribute%20acts-u627248-fr.jpg
 description: our jess glynne tribute acts  are delivered by two of scotbase's most talented songstresses, donna ramsdale and meliissa t. the Grammy award-winning artist jess glynne is  represented in style by these two fabulous artists. Covering all the hits and mimicking all the moves our jess glynne tribute acts have to be seen to be believed.   These shows are  great for parties, corporate functions, weddings and other special events as they provide all the talent required of a true superstar such as Miss glynne.<hr>
             INSTANT QUOTES & AVAILABILITY
 ---

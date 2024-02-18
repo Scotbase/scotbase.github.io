@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: https://scotbase.com/images/blues%20borthers%20tribute%20bands%20slide.jpg?crc=3770369487
+image: https://scotbase.com/images/blues%20borthers%20tribute%20bands%20slide.jpg
 description: our BLUES BROTHERS TRIBUTE ACTS ARE second to none.  IF YOU'Re LOOKING TO LIVEN UP YOUR EVENT A BLUES BROTHERS TRIBUTE ACT IS FOR YOU. THE mad blues, the MAC BLUES AND THE BIRMINGHAM BLUES BROTHERS ARE all TOP CLASS ACTS who AIM TO PLEASE. these acts appeal to audience of all ages and suitable for venues large and small. if you want a full house, a tribute act is the answer. remember we're on a mission from god. <hr>
 
       call now for advice, INSTANT QUOTES & AVAILABILITY

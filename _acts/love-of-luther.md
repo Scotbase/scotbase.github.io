@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: https://scotbase.com/images/luther%20vandross%20tribute%20show%20love%20of%20luther-u639806-fr.jpg?crc=3906736303
+image: https://scotbase.com/images/luther%20vandross%20tribute%20show%20love%20of%20luther-u639806-fr.jpg
 video_src: https://youtu.be/18jLb7H21vY?feature=shared
 description: the luther vandross tribute show, love of lutherTh is truly remarkable.  vocalist dayton pays a sensational tribute to the legendary Luther Vandross in a show that is as emotional as it is authentic. In an awe-inspiring homage to the great man, talented Dayton sings the songs that earned Luther the nickname, The Velvet Voice.Inspired by the emotion and distinct singing style of his icon, dayton Captures perfectly the sheer magic of Luther. with silky smooth vocals Dayton has perfected a performance that is mesmerizing.This captivating artiste has music in his blood. Hailing from a musical family multi-talented Dayton began playing drums as a child before going on to learn bass, acoustic guitar and classical piano.Hauntingly beautiful this artist sings with such passion and honesty, that it is impossible not to be moved. Relive the nostalgia of Luther with this emotive tribute. With his warm, rich voice and charismatic performance, this is an artist who has created a luther vandross tribute filled with love and devotion. <hr>
             call now for advice, INSTANT QUOTES & AVAILABILITY

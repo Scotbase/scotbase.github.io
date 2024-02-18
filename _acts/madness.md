@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: https://scotbase.com/images/madness%20tribute%20bands.jpg?crc=281800636
+image: https://scotbase.com/images/madness%20tribute%20bands.jpg
 description: These fabulous madness and ska TRIBUTE ACTS will make you think you are at madness concert. Formed in the early eighties, this America Hard Rock band ‘Bon Jovi’ went from strength to strength with big hits like ‘Living On A Prayer’’’, It’s My Life, ‘You Give Love A Bad Name’, and with the big hair to match. With front man jon Bon Jovi’s vocal talent they continued to dominate the eighties hard Rock music world, and today these truly authentic tribute bands play a collection of the biggest rock hits from the earlier days right up to the modern day, with magical songs to match all age groups. <hr>
             call now for INSTANT QUOTES & AVAILABILITY
 ---

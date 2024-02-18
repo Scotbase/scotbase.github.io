@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: https://scotbase.com/images/motown%20tribute%20acts%20and%20shows.jpg?crc=103598974
+image: https://scotbase.com/images/motown%20tribute%20acts%20and%20shows.jpg
 description: motown has remained at the front of soul music and is as popular today as it's ever been. our motown tribute acts, with exceptional live vocals and harmonies is so close to the real thing - hearing is believing. all of these motown tribute bands boast fabulous costumes,  have amazing dance routines, and come with professional sound systems,  light shows and backdrops. <hr>
           INSTANT QUOTES & AVAILABILITY, lines open until 10pm
 ---

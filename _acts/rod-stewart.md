@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: https://scotbase.com/images/ros%20stewart%20tribute%20acts-u640316-fr.jpg?crc=4227457861
+image: https://scotbase.com/images/ros%20stewart%20tribute%20acts-u640316-fr.jpg
 description: our rod stewart tribute shows have great knowledge & enthusiasm for rod stewart. this is obvious from their portrayals of the rocker.A Rod Stewart concert is more than just the music, it's a combination of all the costumes, the stories and the moves which go to define Rod's character.the shows come with pro lighting, sound systems and backdrops <hr>
             call now for advice, INSTANT QUOTES & AVAILABILITY
 ---

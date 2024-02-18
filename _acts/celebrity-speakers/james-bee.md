@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: https://scotbase.com/images/celebrity%20speaker%20james%20bee-u664716-fr.jpg?crc=422078068
+image: https://scotbase.com/images/celebrity%20speaker%20james%20bee-u664716-fr.jpg
 description: celebrity speaker James Bee is a former FIFA Assistant Referee and was on the International list for almost a decade. He also officiated in Scotland for 25 years and was involved in eight Celtic v Rangers games, three Hearts v Hibs derbies, the Scottish Cup Final and League Cup Final.James entertains with humorous stories from his various UEFA games including trips to Moscow, Azerbaijan and Qatar or matches involving Brazil, France or Spain. He also impersonates some of the football personalities he has met along the way.<hr>As current Secretary of the Prospect Union of Scottish Football Referees he provides an insight into the world of Scottish football and is happy to do Q&A’s at the end of his presentation.Comfortable performing in front of audiences of 60 and up to 60,000, James is available for all types of events including Charity, Burns Suppers, Dinners or roles such as Master of Ceremonies. <hr>
             call today for advice, QUOTES & AVAILABILITY
 ---

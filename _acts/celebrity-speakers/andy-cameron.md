@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: https://scotbase.com/images/celebrity%20speaker%20andy%20cameron-u664122-fr.jpg?crc=3908994761
+image: https://scotbase.com/images/celebrity%20speaker%20andy%20cameron-u664122-fr.jpg
 description: Andy cameron is undoubtedly one of the most popular comedy stars in Scotland. He is also one of Scotland’s most humorous after dinner speakers.andY  IS MUCH SOUGHT AFTER FOR corporate gala  dinners, CHARITY EVENTS & prestigious aND Award ceremonies in theatres STADIUMS & hotels Throughout the country.IF YOU WANT YOUR GUESTS TO HAVE A GREAT TIME ANDY GUARANTEES A NIGHT OF LAUGHTER & FUN. <hr>
             call today for advice, QUOTES & AVAILABILITY
 ---

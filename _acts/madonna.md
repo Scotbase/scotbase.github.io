@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: https://scotbase.com/images/madonna%20tribute%20acts%20and%20shows-u628742-fr.jpg?crc=178009580
+image: https://scotbase.com/images/madonna%20tribute%20acts%20and%20shows-u628742-fr.jpg
 description: scotbase madonna tributes all have the wow factor. fabulous vocals, choreographed dance routines, stunning costumes and amazing musicians these shows are not to be missed.undoubtedly, madonna is the Ultimate Queen Of Pop and after four decades she is as popular as ever. as is our tributes to her. <hr>
             call now for INSTANT QUOTES & AVAILABILITY
 ---

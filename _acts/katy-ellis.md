@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: https://scotbase.com/images/taylor%20swift%20tribute%20act%20katy%20ellis-u632154-fr.jpg?crc=167254042
+image: https://scotbase.com/images/taylor%20swift%20tribute%20act%20katy%20ellis-u632154-fr.jpg
 description: our taylor swift tribute act katy ellis is The most prestigious Tribute Act in the UK and around the world. This Taylor Swift Tribute Act takes pride in making her ‘Swiftie’ fans really believe they are watching the real Taylor Swift.Our Taylor Swift Tribute not only looks like Taylor Swift but has the same mannerisms, energy on stage and attitude; she is even the same age, like Taylor Swift was also born in 1989. This Taylor Tribute act has been a singer in the music industry for ten years, like Taylor Swift. After all her vocal training, she has the range and sound, including an awesome American accent- ‘Just Like Taylor Swift’. This fun energetic show gets all the audience involved and has everyone singing along and ‘Shaking it off’ to all of Taylor Swift’s hits.This tribute has a full PA system, lights, even cool stage props. So can come as a complete package. Looking for more? Taylor Swift dancers available upon request and also a full live band making the experience even more magical. <hr>
             call now for INSTANT QUOTES & AVAILABILITY
 ---

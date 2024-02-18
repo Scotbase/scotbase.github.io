@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: https://scotbase.com/images/oasis%20tribute%20bands.jpg?crc=4030489135
+image: https://scotbase.com/images/oasis%20tribute%20bands.jpg
 ---
 
 <div class="row mt-4 mb-4">

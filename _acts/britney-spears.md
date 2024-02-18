@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: https://scotbase.com/images/britney%20spears%20tribute%20acts.jpg?crc=330205404
+image: https://scotbase.com/images/britney%20spears%20tribute%20acts.jpg
 description: scotbase britney spears tributes are energetic ladies with fabulous vocals, choreographed dance routines and stunning costumes.American Top Pop Princess Britney Spears is well represented at scotbase. choose from our talented britney tributes and your event will sizzle. <hr>
             call today for advice, QUOTES & AVAILABILITY
 ---

@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: https://scotbase.com/images/little%20mix%20tribute%20bands.jpg?crc=88139275
+image: https://scotbase.com/images/little%20mix%20tribute%20bands.jpg
 ---
 
 <div class="row mt-4 mb-4">

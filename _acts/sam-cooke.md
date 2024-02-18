@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: https://scotbase.com/images/sam%20cooke%20tribute%20act%20lance%20gold-u640977-fr.jpg?crc=264497971
+image: https://scotbase.com/images/sam%20cooke%20tribute%20act%20lance%20gold-u640977-fr.jpg
 video_src: https://youtu.be/4KODhlZljvk?feature=shared
 description: sam cooke tribute star Lance Gold has forged his trail into the stratosphere of Mr Soul.  Moving and grooving towards the classics of soul and motown Lance’s  Sam Cooke tribute is second to none.Lance looks up to sam cooke as one his most influential and favourite singer.  Like the classic Soul singers of the past Lance Gold is always immaculately suited & booted, he is coolness personified.lance's repertoire covers The Four Tops, The Temptations, The O’jays,The Drifters & Marvin Gaye and he will happily incorporate these into your show if required.The professional way that this show is brought to you is that Lance has a sound and lighting engineer off stage giving him total concentration delivering the songs and to interact more with the audience.This is a show that can adapt from a small intimate restaurant to a large cabaret or wedding venue.  A first class PA system provides the sound. All equipment used carries a PAT test and Pulic Liability insurance is provided through Equity membership.lance is a true gift and his sam cooke tribute show sells tickets fast, so book now  to avoid disappointment. <hr>
             call now for advice, INSTANT QUOTES & AVAILABILITY
