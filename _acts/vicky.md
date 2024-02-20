@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: assets/images/taylor%20swift%20tribute%20act%20vicky-u632268-fr.jpg
+image: assets/images/taylor%20swift%20tribute%20act%20vicky.jpg
 description: our taylor swift tribute vicky has many years experience  in the industry. a well established, professional and talented performer whom has a gleaming representation. Vicky has been performing as Taylor Swift for several years now and in 2017 she was commissioned by Butlin’s Holiday parks for a full production show. With her vocal techniques that allow her to mimic some of the world’s most iconic singers to bring stunning tribute shows, its not hard to see why everyone loves her! With her attention to detail you will also get the full visual experience.Vicky is an award winning performer and has consistently up to date shows which deliver, every time. As a vocalist Vicky has appeared on Radio 1, MTV & alongside Rod Stewart in Las Vegas.a fast moving dynamic show recreating hit after  hiT.  this taylor swift tribute show is available self contained with dancers and a professional light show. <hr>
             call now for INSTANT QUOTES & AVAILABILITY
 ---

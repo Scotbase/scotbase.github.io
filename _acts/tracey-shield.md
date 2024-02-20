@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: assets/images/celine%20dion%20tribute%20act%20tracey%20shield-u625252-fr.jpg
+image: assets/images/celine%20dion%20tribute%20act%20tracey%20shield.jpg
 description: An Evening with Celine Dion is an explosive compilation of Celine Dion's greatest hits, as well as legendary hits she has covered by some of the worlds leading bands & artists.As well as performing in the UK, Tracey has taken the show all over the world including New York, New Zealand, Malaysia, Spain and Malta to name a few.Whether performing in the UK or across the world this very convincing and talented actress, combined with her superb live vocals, never fails to amaze or totally enthral her audience of admiring fans.At present Tracey Shield is performing at some of the UK’s best venues. Hotels, Restaurants, Theatres and Cabaret venues across the country, constantly book and organise Celine Dion tribute evenings, of course starring the award winning Tracey Shield.Celine Dion has a huge following of fans in the UK and many come to see this show whenever Tracey is in town. Tracey is also a big hit with her corporate clients and has performed all around the World for some of the biggest names including Apple, Cadburys, Orange, Virgin Mobile, Canadian Commerce, Chrysler, Hilton, Grosvenor and Selfridges.  book early to avoid disappointment.This is a show you will not forget in a hurry and will make sure you truly ‘believe’ in Stacy as Cher. book early to avoid disappointment. <hr>
             call today for advice, QUOTES & AVAILABILITY
 

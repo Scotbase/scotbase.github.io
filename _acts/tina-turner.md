@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: assets/images/tina%20turner%20tribute%20acts-u630701-fr.jpg
+image: assets/images/tina%20turner%20tribute%20acts.jpg
 description: our tina turner tribute acts emeulate the lady with  the raunchy on-stage persona, the golden wigs, flailing legs and breath-taking mini-skirts tina turner is a giant in the world of pop. Tina broke the world record for the largest paying audience at a solo concert – 184,000 people, at the Maracanã in Rio de Janeiro.our tina turner tribute acts are also suitable for small or large venues. a great night of entertainment is guaranteed with these immensely popular tribute shows. <hr>
             call today for advice, QUOTES & AVAILABILITY
 ---

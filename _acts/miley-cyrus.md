@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: assets/images/miley%20cryus%20tribute%20act-u629323-fr.jpg
+image: assets/images/miley%20cryus%20tribute%20act.jpg
 description: miley cyrus tribute melissa t is the UK’s number one Miley Cyrus Tribute. As Miley Cyrus released her comeback album and began her “Bangerz” world tour, she left behind Disney star Hannah Montana for good and came back with a brand new look.With over 18million Twitter followers it’s no wonder the ‘We can’t stop’ video received 10.7m views in just 24 hours of being live. The ‘Wrecking Ball’ singer was one of the most talked about celebs, From her outrageous videos to memorable live performances.Her collaborations with artistes such as Will.i.am, Robin Thicke and Britney Spears have proved hugely popular, not forgetting her ‘Twerking’ skills. and mellisa t miley tribute encaptures all of that.This live tribute show can be catered to suit many events and audiences of all ages. Available up to a 45min set of Miley’s best with a number of costume changes throughout. <hr>
           INSTANT QUOTES & AVAILABILITY, lines open until 10pm
 ---

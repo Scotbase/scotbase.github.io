@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: assets/images/book%20psychic%20shows-u611550-fr.jpg
+image: assets/images/book%20psychic%20shows.jpg
 description: the psychics at scotbase deal with the foreseeable and the  unforeseeable. Our psychics work with spirit guides to provide you with the answers you need. <hr> Have you ever wondered what the future might hold for you? Do you wonder about past life experiences? Do you want to know when you will meet your true love?the psychics at scotbase deal with the foreseeable and the  unforeseeable. Our psychics work with spirit guides to provide you with the answers you need.They will convey your thoughts and wishes across the divide through psychic medium readings. Open your heart and call to book a psychic  today. BOOK YOUR ACT TODAY! book early to avoid disappointment.
             call today for INSTANT QUOTES & AVAILABILITY
 ---
