@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: https://scotbase.com/images/multi%20tribute%20show%20robbie%20-%20buble.jpg
+image: assets/images/multi%20tribute%20show%20robbie%20-%20buble.jpg
 # video_src: https://www.youtube.com/embed/kwOaqwIyKas?si=FyAYW6OFKMdkuAjb
 description:     OUR ROBBIE WILLIAMS & MICHAEL BUBLE  MULTI TRIBUTE  SHOW  FROM ANDY G MILLER IS FABULOUS NIGHT OF  ENTERTAINMENT.   ANDY EXCELS AS MICHAEL BUBLE. SINGING ALL THE HITS IN HIS SMOOTH VOICE, THE SHOW CHANGES GEARS WHEN HE REAPPEARS AS BAD BOY ROBBIE WILLIAMS.  <hr>
   THE ULTIMATE PROFESSIONAL, ANDY HAS PERFECTED HIS TRIBUTES OF BOTH THESE STARS.

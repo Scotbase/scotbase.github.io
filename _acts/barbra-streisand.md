@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: https://scotbase.com/images/barbra%20streisand%20tribute%20act2.jpg
+image: assets/images/barbra%20streisand%20tribute%20act2.jpg
 video_src: https://player.vimeo.com/video/317062545?h=34af6622c8
 description: Barbra Streisand tribute show, strictly streisand from Christina simone, is beyond compare. this amazing vocalist has the accent, the voice and looks of the young barbra streisand, even down to her nails! a must see for streisand fans. with her velvet smooth vocals, and replicate costumes, christina  offers a one or two hour party set. Whatever your event Christina has a show to suit.from the North East christina  has over 20 years experience,  and has worked with Household names such as Peter Andre, Michael Barrymore, Frank Carson, Brendon Healy and Tom Jones. Christina was voted best female vocalist in the North Of England.so it's no surprise that strictly streisan is receiving 5 star reviews at festivals, clubs, hotels and casinos up and down the country. Christina Simone is no stranger when it comes to theatre having played principal roles on stage musicals including Killer Queen in We Will Rock You and Nancy in Oliver and many more.Being dedicated to her craft and the quality of performance, christina is One of the most well-respected and liked entertainers, and is rebooked time and time again. book well in advance of your event date to avoid disappointment. <hr>
             call now for INSTANT QUOTES & AVAILABILITY

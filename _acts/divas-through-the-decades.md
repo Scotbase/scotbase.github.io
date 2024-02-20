@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: https://scotbase.com/images/multi%20tribute%20show%20divas%20through%20the%20decades.jpg
+image: assets/images/multi%20tribute%20show%20divas%20through%20the%20decades.jpg
 # video_src: https://www.youtube.com/embed/kwOaqwIyKas?si=FyAYW6OFKMdkuAjb
 description: A pick and mix tribute for your favourite music – A Tribute to the 60s, 70s, 80s, 90s or Noughties. Pick two decades of your choice, music from memory lane, songs that you can’t stop singing Pick the era that your family, friends or customers cherish and book the Decade Diva to provide a non-stop hit thumping mind blowing show that will keep you singing and dancing all night long.  <hr>
             Jo Farrow, one of the North Wests greatest female vocalists, has painstakingly put together all the best hits of the decades from the sixties to the noughties so you can pick the show you want. <hr>

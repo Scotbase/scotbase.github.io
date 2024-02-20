@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: https://scotbase.com/images/shania%20twain%20tribute%20acts2.jpg
+image: assets/images/shania%20twain%20tribute%20acts2.jpg
 description: our shania twain tribute acts are in big demand. these shows provide Fantastic music to dance and sing along to. these great vocalist  have shania down to a t you'll scarcely believe they aren't the real thing. our shania twain tributes appeal to mixed age audiences and suited to venues large and small.The perfect choice for corporate events, hotels, social clubs and diva Themed Occasions.  book an superb shania twain tribute act and your event will ooze glamour.  scotbase are proud to  present these first class shania twain tribute acts and shows to the uk. <hr>
             call today for advice, QUOTES & AVAILABILITY
 ---

@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: https://scotbase.com/images/take%20that%20tribute%20bands%20and%20shows.jpg
+image: assets/images/take%20that%20tribute%20bands%20and%20shows.jpg
 description: our take that trbute bands are as close as you'll get to the successful band  who've have had 56 number one singles and 39 number one albums, and received eight Brit Awards—winning awards for Best British Group and Best British Live Act. true pros these bands are five star and guaranteed to sell out tickets at your venue. <hr>
           call today for advice, QUOTES & AVAILABILITY
 ---

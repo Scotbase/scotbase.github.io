@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: https://scotbase.com/images/britney%20spears%20tribute%20act%20carrie2.jpg
+image: assets/images/britney%20spears%20tribute%20act%20carrie2.jpg
 description: britney spears tribute  carrie is transformed from the opening bar of oops, to pop princess britney.  the costumes, the dance routines and carries amazing vocals all add up to one great show.perfect for ninties themed nights, corporate events, hotels. social clubs and holiday parks  carrie will put on a show to remember at every venue she plays. book early to avoid disappointment. <hr>
             call today for advice, QUOTES & AVAILABILITY
 ---

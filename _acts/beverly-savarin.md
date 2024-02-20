@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: https://scotbase.com/images/whitney%20houston%20tribute%20act%20beverly%20savarin-u633016-fr.jpg
+image: assets/images/whitney%20houston%20tribute%20act%20beverly%20savarin-u633016-fr.jpg
 # video_src: https://www.youtube.com/embed/kwOaqwIyKas?si=FyAYW6OFKMdkuAjb
 description: A classy, sensational Whitney Houston Tribute Act, Just Whitney by Beverly Savarin ,captures the essence of the legend who was not only one of the best singers the world has ever seen but beautiful too.London born, Caribbean raised and American influenced singer, Beverly Savarin, has covered much ground in her young career and intends to continue doing just that for the years to come! Groomed on the US stages of the Apollo Theatre, Newark Symphony Hall, Chaz &Wilsons, BB Kings and many more.Beverly Savarin is a consummate professional whose voice and persona will transform your heart and your soul. in both thought and performance execution  Her interaction with her audience is sincere and uplifting, many audeince members have left her performances feeling both spellbound and elated.Beverly’s Tone and Pitch is so true and clean that many have thought they were listening to a recording instead of a live voice. Her personal presentation is striking with both the allure of a true diva and the glow of an angel.  Beverly is a true gift and her whitney houston tribute is not to be missed. <hr>
             call now for INSTANT QUOTES & AVAILABILITY

@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: https://scotbase.com/images/celebrity%20speaker%20david%20tanner-u664419-fr.jpg
+image: assets/images/celebrity%20speaker%20david%20tanner-u664419-fr.jpg
 description: celebrity speaker, David Tanner has worked in the live coverage of football for almost three decades. Best known as a TV presenter, David now freelances for a range of broadcasters including BT Sport and the BBC.  During this time he has become an accomplished host of events and conferences in the business and charity fields.mr tanner has enjoyed almost twenty years with Sky Sports as the face of live coverage of Scottish football, both at home and across Europe. As both a reporter and studio anchor, he has covered big football games in over 30 countries. His all-time favourite is Scotland's famous win in Paris. <hr>David Tanner bagged his first sporting interview when still at school, sneaking into a Glasgow pub to question the legendary Jim Baxter!Although best known in the sports sphere, David's personality, backed-up by his powers of journalistic research, make him an accomplished mc and after dinner speaker for any type of event. Armed with quick wit and a sharp interviewing style, he is skilled at getting the right message out to your audience. <hr>
             call today for advice, QUOTES & AVAILABILITY
 ---

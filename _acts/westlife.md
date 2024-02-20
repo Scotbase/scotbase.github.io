@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: https://scotbase.com/images/westlife%20tribute%20bands2.jpg
+image: assets/images/westlife%20tribute%20bands2.jpg
 description: scotbase's westlife tribute bands celebrate THE GREATEST boy band OF ALL TIME. these are the most authentic recreations that you will find. thet have their look,  sound, dance routines, costumes  replicated to perfection. it is a visual and  concert experience THAT WILL appeal to audiences of all ages and to most venues. full shows with special lighting effects - a must for westlife fans. <hr>
             call today for advice, QUOTES & AVAILABILITY
 ---

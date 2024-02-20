@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: https://scotbase.com/images/multi%20tribute%20show%20time%20of%20your%20life.jpg
+image: assets/images/multi%20tribute%20show%20time%20of%20your%20life.jpg
 # video_src: https://www.youtube.com/embed/kwOaqwIyKas?si=FyAYW6OFKMdkuAjb
 description: multi tribute show the time of your life  is a combination of celebrities and stars from all walks of showbiz, be it current chart toppers like “Adelle” and “Michael Buble” or film favourites like “Calamity Jane”’Austin Powers” and the “Blues Brothers”. delivered with amazing accuracy by Steve Bishop & christy mac who  recently completed a sell out tour of Scottish Theatres supporting The Francie and Josie Show. <hr>
              Their stage presence, vocal delivery and overall charisma make them stand out on any stage, with trademark quality costume changes and complete character portrayals, which are second nature to them. The show also contains fully costumed tributes to the genres of 60s and Motown music. <hr>

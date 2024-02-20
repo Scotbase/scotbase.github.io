@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: https://scotbase.com/images/celebrity%20speaker%20chic%20young-u664353-fr.jpg
+image: assets/images/celebrity%20speaker%20chic%20young-u664353-fr.jpg
 description: celebrity speaker Chick Young is the football correspondent for BBC Scotland.  Good Morning Scotland and Newsdrive on Radio Scotland. He is also one of the most popular sporting after dinner speakers in Scotland.He admits that several of his early editors would be astonished at the number of journalistic awards which he has gathered along the way. But not half as much as me, he says.<hr>Chick has spoken at many major dinners - and a few dodgy ones - throughout Scotland and has shared the top table with  the great and good of Scottish sporting and showbiz life. on one memorable occasion George Best, a man who needed no introduction - because he never turned up.More importantly he is captain of the legendary charity football team Dukla Pumpherston, a motley crew of former professional players and and television personalities who tour the country - indeed the world enjoying themselves while raising cash for excellent causes. They are best described as a drinking team with a football problem.<hr>chick young is a polular and entertaining after dinner speaker, and has shared the top table with such eminent figures as Lord McCluskey, Sir Alex Ferguson, Jimmy Hill, Jim Leishman, Denis Law, George McNeil, Gordon Smith, Murdo MacLeod. <hr>
             call today for advice, QUOTES & AVAILABILITY
 ---

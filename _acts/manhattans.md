@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: https://scotbase.com/images/motown%20tribute%20band%20the%20manhattans.jpg
+image: assets/images/motown%20tribute%20band%20the%20manhattans.jpg
 video_src: https://player.vimeo.com/video/317445812?h=b2a7109d8d
 description: Multi Award Winning Soul & Motown Tribute Show The Manhattans deliver with style, charisma and outstanding talent!These guys really know how to entertain and play classic Soul & Motown hits from The Temptations, The Stylistics, Barry White, The Drifters, The Four Tops, Edwin Starr, Boyz 2 Men, Billy Ocean, and many more.​The Manhattans are one of the UK’s finest Soul and Motown vocal groups, entertaining audiences continuously throughout the UK and Europe for the past 15 years.Combining immaculate vocals with years of experience and a charismatic on stage presence they are consistently booked for Clubs, Weddings, Theatres, Open Air Concerts, Private Functions and prestigious Corporate Events.Their love for the magical Motown era naturally reflects in each and every performance, as they recreate flawless versions of these classic songs.The Manhattans are currently a 3 piece vocal group but are also available to work with up to a 7 piece live band.The Manhattans work hard to ensure the audience is left thoroughly entertained, whether booked for a Social event, Wedding, Corporate Function or Theatre they add a touch of class and guarantee to make your event a success! <hr>
           INSTANT QUOTES & AVAILABILITY, lines open until 10pm

@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: https://scotbase.com/images/michael%20buble%20tribute%20act%20adam%20parker%20brown-u640445-fr.jpg
+image: assets/images/michael%20buble%20tribute%20act%20adam%20parker%20brown-u640445-fr.jpg
 video_src: https://youtu.be/HAx2nKwMmg0?feature=shared
 description: michael buble tribute Adam aprker brown is a hugely talented and edgy male vocalist. former front man of the popular band Element. He has now taken solo to the stage with his modern and uplifting michael Bublé tribute show.A musical theatre background, combined with years in a rock band, has given Adam a real versatility. He performs standards and contemporary numbers in his own style and format.Performing a diverse range of songs from Sinatra to Bublé, Adam is sure to always hit the mark. tailoring every show to fit the audience and never leaving the stage without giving it everything he can. A born performer, quiet and unassuming off the stage, he comes alive when the music starts.Adam has a wealth of recording experience including support vocals for many household names. A trained actor and voice over artist, it is very likely that you have already heard some of Adams work.Adam is a consummate professional with a strong attitude to perform to his best on every show. <hr>
             call today for advice, QUOTES & AVAILABILITY

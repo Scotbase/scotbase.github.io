@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: https://scotbase.com/images/kylie%20minogue%20tribute%20acts-u628029-fr.jpg
+image: assets/images/kylie%20minogue%20tribute%20acts-u628029-fr.jpg
 description: these kylie minigue tribute artists pay homage to the Grammy award-winning songstress who's popularity has spanned over thirty years. kylie is a style icon and the represention, by two of scotbase's most talented songstresses, Jennie Laine and victoria Jones, have authentically reproduced her wonderful stage costumes.Covering all the hits and mimicking all the moves our jess glynne tribute acts have to be seen to be believed.   These shows are  great for parties, corporate functions, weddings and other special events as they provide all the talent required of a true superstar such as Miss minogue. <hr>
             call now for advice, INSTANT QUOTES & AVAILABILITY
 ---
