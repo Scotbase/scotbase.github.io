@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: assets/images/dua%20lipa%20tribute%20acts.jpg
+image:  ../assets/images/dua lipa tribute acts.jpg
 description: our dua lipa tribute acts are first class  entertainers. 2017 was such a breakthrough year for the bewitching London born singer  as she sold over a million copies of her self-titled debut album. and scotbase, always on the ball, offer two amazing tributes to the star.  <hr>
             call now for INSTANT QUOTES & AVAILABILITY
 ---

@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: assets/images/spice%20girls%20tribute%20bands%20and%20shows.jpg
+image:  ../assets/images/spice girls tribute bands and shows.jpg
 ---
 
 <div class="row mt-4 mb-4">

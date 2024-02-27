@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: assets/images/book%20a%20tribute%20band.jpg
+image:  ../assets/images/book a tribute band.jpg
 # video_src: https://www.youtube.com/embed/kwOaqwIyKas?si=FyAYW6OFKMdkuAjb
 description: HIRE the uk's best tribute bands and get the ideal act for your event.
             five star ACTS to suit all events and venues, large or small. <hr>

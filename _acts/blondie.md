@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: assets/images/blonde%20tribute%20bands.jpg
+image:  ../assets/images/blonde tribute bands.jpg
 # video_src: https://www.youtube.com/embed/kwOaqwIyKas?si=FyAYW6OFKMdkuAjb
 description: iconic superstar blondie is synonymous with the eighties. scotbase are proud to present our truly fabulous blondie tribute acts.  talented bands who are fronted by amazing vocalists, have  choreographed dance routines and stunning costumes.<hr>
             call today for advice, QUOTES & AVAILABILITY  
