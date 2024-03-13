@@ -8,7 +8,7 @@ description: girls aloud tribute shows are a huge hit for all types of events. R
 
 <div class="row mt-4">
   {% for item in site.data.girls-aloud %}
-    <div class="col-md-4 mb-5">
+    <div class="col-md-4 mb-5 mt-5">
       <div class="card border-0 shadow h-100">
         <a href="/acts/{{ item.title | slugify }}">
           <img class="card-img-top" src="{{ item.image_src }}" alt="" />
