@@ -5,7 +5,7 @@ image:  ../assets/images/spice girls tribute bands and shows.jpg
 
 <div class="row mt-4 mb-4">
   {% for item in site.data.spice-girls %}
-    <div class="col-md-4 mb-5">
+    <div class="col-md-4 mb-5 mt-5">
       <div class="card border-0 shadow h-100">
         <a href="/acts/{{ item.title | slugify }}">
           <img class="card-img-top" src="{{ item.image_src }}" alt="" />
