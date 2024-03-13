@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: https://scotbase.com/images/britney%20spears%20tribute%20act%20michaela-u624330-fr.jpg?crc=3843386808
+image:  ../assets/images/britney spears tribute act michaela.jpg
 description: britney spears tribute sensation, michaela, Not only looks like Britney, she sounds like her too. performing an amazing live Tribute Show which incorporates replica costumes and dance routines inspired from Britney’s live shows and iconic music videos.your guests will be star-struck with Michaela 's likeness to Britney Spears. even Britney Spears couldn’t believe the likeness that she asked to see Michaela in the flesh for herself in 2014. The amazed superstar later uploaded a photo of the pair side by side onto her social media.Michaela completes every show with a meet & greet after her performance. Audience members and party guests, can then have a one-to-one photo with her if they wish, at no extra cost.Michaela is Available for a variety of events including; Birthday parties, Weddings, Corporate events, Meet & Greet, Mix and Mingle, Photographic, TV Productions, Advertising, Sports events and more. <hr>
             call today for advice, QUOTES & AVAILABILITY
 ---

@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: https://scotbase.com/images/rat%20pack%20tribute%20act%20andy%20miller.jpg?crc=4074420517
+image:  ../assets/images/rat pack tribute act andy miller.jpg
 video_src: https://www.youtube.com/embed/eat0-JwAOHM?si=eyVsGh7OETEz-xSS
 description: a passionate performer with a fantastic show, andy miller's rat pack tribute is an impressive take on the guys from the sands. ANDY MILLER IS ONE OF SCOTLAND'S TOP ACTS. WITH A WEALTH OF EXPERIENCE HE OFFERS A FABULOUS PRODUCTION WITH PROFESSIONAL SOUND & LIGHT. his PERFORMANCE IS UNIQUE AND HIS UNMATCHED CHEMISTRY WITH HIS AUDIENCE MAKES ANDY STAND OUT.  <p>
             PAT's country legends multi triBUTE show INCLUDEs JOHNNY CASH, WILLIE NELSON, ALAN JACKSON AND A HOST OF OTHERS. FROM HIS FIRST SONG PAT COMMANDS THE STAGE, A POWERFUL VOICE AND RAW EMOTION ENSURES EACH SONG CAPTURES YOUR ATTENTION AND LEAVES YOU EAGER FOR THE NEXT. <hr>

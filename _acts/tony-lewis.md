@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: https://scotbase.com/images/robbie%20williams%20tribute%20act%20tony%20lewis-u640825-fr.jpg?crc=4061723027
+image:  ../assets/images/robbie williams tribute act tony lewis.jpg
 video_src: https://youtu.be/Xpj8F_6YgP0?feature=shared
 description: robbie williams tribute Tony  lewis has been wowing audiences worldwide with his amazing portrayal of one of Britain's most popular Entertainers, Robbie Williams. After making his debut in Trevor Chance's Legends, Tony has gone on to perform all across the globe, leaving audiences constantly gagging for more. He turns heads wherever he goes leaving onlookers asking, '"Is it or isn't it?"In 2005 Tony was lucky enough to meet Robbie in person, and gained his idol's approval with Robbie saying, "I think it's great, I'm really flattered! It's bloody hard work being me!" In 2008 Tony beat all his Robbie competition, landing a spot on BBC ONE's, The One And Only, performing in front of 7 million viewers for 6 successive weeks, eventually bowing out in the final to Dusty Springfield.The resemblance is so uncanny that tony has appeared for numerous promotional campaigns and tv shows throughout europe but the highlight must be playing robbie in a series of official short films for the album, Rudebox, Tony's show covers all of the greatest hits, with a few special surprises, capturing the true spirit of everything Robbie, The look's, the moves, the voice, the ego!!!!!! This show has it all! Tony Lewis is Robbie Williams! <hr>
             call today for advice, QUOTES & AVAILABILITY

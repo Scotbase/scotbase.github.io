@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: https://scotbase.com/images/seventies%20tribute%20bands%20-%20shows.jpg?crc=107197232
+image:  ../assets/images/seventies tribute bands - shows.jpg
 ---
 
 <div class="row mt-4 mb-4">

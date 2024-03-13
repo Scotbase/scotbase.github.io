@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: https://scotbase.com/images/celine%20dion%20tribute%20acts2.jpg?crc=3987918645
+image:  ../assets/images/celine dion tribute acts2.jpg
 description: our celine dion tribute acts celebrate the Canadian Singer who  is recognised as one of the greatest voices of our time.scotbase celine dion tributes to one of the most famous singers in the world are simply wow. fabulous vocals, choreographed dance routines, stunning costumes and amazing musicians make these shows a must see. <hr>
             call today for advice, QUOTES & AVAILABILITY.
 ---

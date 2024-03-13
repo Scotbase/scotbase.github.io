@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: https://scotbase.com/images/hire%20a%20band%20hart%20-%20soul-u648853-fr.jpg?crc=4148747444
+image:  ../assets/images/hire a band hart - soul.jpg
 description: Gary J Carson and Scarlet Hart come together to form Hart & Soul. With over 40 years experience between them, this duo know how to entertain. Covering hits from across the decades, with smooth harmonies and a bit of humour and rapport built in, this natural entertaining vocal duo have something for everyone.Hart and Soul have established themselves as one of Scotland’s top function duos. Reliable and experienced, they specialise in creating a memorable evening.  Performing at over 100 private events every year including wedding receptions, corporate events and private functions, Hart & Soul have a repertoire of songs for every occasion; from the sixties through to today’s current chart hits.Enhanced by a professional sound and lighting system this fabulous duo will bring your venue to life. These guys are busy so early bookings are encouraged to avoid disappointment. <hr>
             call today for INSTANT QUOTES & AVAILABILITY
 ---

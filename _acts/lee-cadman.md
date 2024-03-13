@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: https://scotbase.com/images/robbie%20williams%20tribute%20act%20lee%20cadman-u640711-fr.jpg?crc=132797566 
+image:  ../assets/images/robbie williams tribute act lee cadman.jpg
 description: With all the moves, mannerisms and incredible vocal talents of Robbie Williams, Lee cadman is a tribute act of the highest calibre. His show is packed with Robbie’s top hits including Rock DJ, Let Me Entertain You, Angels and many more.Lee has been a professional entertainer for 12 years and is now recognised as the Ultimate Robbie experience. His expressions, sound and performance are all the same as that of the great Robbie Williams, His performances are absolutely brilliant.Lee Cadman  has performed in all types of venues around the UK and worldwide. He first came to the attention of British audiences performing the Ultimate Robbie show in early 2004. Lee is an entertainer first and foremost. Wherever he performs he electrifies audiences with his energy and vocal talent.Lee is a huge hit in Scandinavia with a number of extremely successful Corporate shows in Norway along with a major festival and cruising shows in Finland Sweden and the Baltic Seas.Lee also performed for Manchester City Football Club at a packed Etihad Stadium, His performance earned him a standing ovation from a crowd of over thirty one thousand people.Don’t miss Ultimate Robbie if you are a Robbie Williams fan. This is entertainment at its very best. <hr>
             call today for advice, QUOTES & AVAILABILITY
 ---

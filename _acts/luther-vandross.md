@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: https://scotbase.com/images/luther%20vandross%20tribute%20acts-u639677-fr.jpg?crc=103081946
+image:  ../assets/images/luther vandross tribute acts.jpg
 description: our luther vandross tribute acts and shows respectfully pay homage to the Grammy Awards winning singer.  Luther vandross was a permanent and dynamic force in popular music. He crossed boundaries, starting with his earliest success as a background vocalist and arranger for David Bowie, Bette Midler, Barbra Streisand, Donna Summer, Carly Simon, Judy Collins, J. Geils Band, Ben E. King, Ringo Starr and Chic.For almost 25 years, from 1981 to 2005, Luther dominated the American R&B music charts like no other artist before or since. In that span Luther released eight number 1 R&B albums, seven number 1 R&B singles and another five Top 20 R&B singles.He achieved crossover status with eight Billboard Top 10 albums, including reaching number 1 with 2003’s Dance With My Father; and another five Top 10 Billboard Hot 100 singles.our van luther tribute shows bring back to life his distinctive brand of satin smooth vocal magic that moved international audiences and continues to touch people to this day. <hr>
             call now for advice, INSTANT QUOTES & AVAILABILITY
 ---

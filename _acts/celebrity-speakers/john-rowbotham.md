@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: https://scotbase.com/images/celebrity%20speaker%20john%20rowbotham-u664980-fr.jpg?crc=3891162135
+image:  ../../../assets/images/celebrity speaker john rowbotham.jpg
 description: celebrity speaker John rowbotham was appointed to referee the 2005 Scottish Cup Final between Celtic and Dundee United. He said the feeling he had when appointed resulted in him speaking to spacemen for days! Now retired, John was also a FIFA referee and has officiated at 4 World Cup qualifiers. Instantly recognisable for his 6’3”frame and shaved head, he was a favourite with both home and away fans.<hr>John is happy speaking to audiences of 50 to 500. Recent speaking engagements have included St Mirran FC dinner with 500 guests, the boxing promoter Tommy Gilmour’s monthly sportsman’s evening and Dundee United’s corporate dinner at the Hilton in Glasgow.He also spoke at the recent East Fife all-time greats awards in Kirkaldy and the Central Amateurs dinner in Motherwell with over 200 guests in attendance.<hr>a motivational and dry humoured after dinner speaker, john is available for your corporate event, conference or sporting function.<hr>
             call today for advice, QUOTES & AVAILABILITY
 ---

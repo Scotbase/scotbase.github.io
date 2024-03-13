@@ -1,6 +1,6 @@
 ---
 layout: acts
-image: https://scotbase.com/images/lady%20gaga%20tribute%20acts-u628439-fr.jpg?crc=4154497688
+image:  ../assets/images/lady gaga tribute acts.jpg
 description: scotbase's fabulous totally gaga and  lady is gaga shows represents the grammy award-winning artist lady gaga with great style. Covering all the hits and mimicking all the moves our lady gaga tribute acts have to be seen to be believed.These shows are  great for parties, corporate functions, weddings and other special events as they provide all the talent required of a true diva such as lady gag <hr>
             call now for advice, INSTANT QUOTES & AVAILABILITY
 ---
